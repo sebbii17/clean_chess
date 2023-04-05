@@ -241,7 +241,7 @@ Widget get _leaderboardItem => ModeItem(
     );
 Widget get _usersItem => const ModeItem(
       title: 'Users',
-      subtitle: 'Searh for users',
+      subtitle: 'Search for users',
       icon: Icon(
         Icons.groups,
         size: 35,
